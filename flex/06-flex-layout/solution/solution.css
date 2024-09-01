@@ -52,6 +52,7 @@ a {
 
 .header,
 .footer {
+  flex: 1;
   display: flex;
   justify-content: space-between;
   padding: 16px;
